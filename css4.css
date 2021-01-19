@@ -1,0 +1,32 @@
+body{
+  background-color: aqua;
+}
+
+.table1 table,th,td{
+  border: 3px solid black;
+  padding: 15px;
+  border-color: #47041e;
+  border-collapse: collapse;
+  margin: left;
+  width: 70%; 
+  text-align: left;
+  text-shadow: 3px 3px 10px black;
+}
+
+.table1 table{
+margin-left: 15%;
+  box-shadow: 1px 20px 60px black;
+  background-color: #56d121
+}
+
+.table1 th:hover{
+  background-color: #faf3dd;
+box-shadow: 1px 20px 60px black;
+}
+.table1 td:hover{
+  background-color: #faf3dd;
+  box-shadow: 1px 20px 60px black;
+}
+#imgs{
+  width: 300px;
+}
